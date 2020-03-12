@@ -65,6 +65,10 @@ related research:
   [Project page](https://prior.allenai.org/projects/craft)
   [Video](https://www.youtube.com/watch?v=688Vv86n0z8&feature=youtu.be)
   
+## Animation
+*[deep learning for character animation and control](https://github.com/sebastianstarke/AI4Animation)
+*[DeepMimic: Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
+
 ## SEE CODE LINK:
 * [Paper with code](https://paperswithcode.com/)
 
@@ -73,6 +77,7 @@ related research:
 * [coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/)
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 * fast.ai
+* [UIUC: ECE420 Video processing lab](https://courses.grainger.illinois.edu/ece420/fa2019/lab7/lab/)
 * GPU free resource:[Setting Up a Google Cloud Instance GPU for fast.ai for Free](https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6)
 
 ## Full Stack Deep Learning tools in data processing pipeline:
@@ -92,3 +97,9 @@ related research:
 
 ## MEET mind-linked people in forum:
 *[reddit-MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
+
+## Application:
+### FILM MAKING:
+* Black Mirror: Bandersnatch
+  [Show case: dialogue tree](https://www.reddit.com/r/blackmirror/comments/aajk5r/full_bandersnatch_flowchart_all_branches_story/)
+* [LATE-SHIFT](https://lateshift-movie.com/)
