@@ -32,11 +32,23 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
    [BigGAN models](https://tfhub.dev/deepmind/biggan-512/2)
    [About](https://artbreeder.com/about)
 
-## More resources on pretrained model:
-* [Pytorch hub]https://pytorch.org/hub/research-models
-* [Tensorflow hub]
+## Text Generation
+* [OpenAI 1.5 billion params GPT-2 release](https://openai.com/blog/gpt-2-1-5b-release/)
+* 
 
-## Audio and music
+
+## Audio and music generation/processing
+### Project:
+* [Talking like your favorite character: Text-To-Speech audio generation ](https://fifteen.ai/app)
+related research:
+* [Tacotron2](https://github.com/NVIDIA/tacotron2)
+related project:
+* [ForwardTacotron: Tacotron2 without attention](https://github.com/as-ideas/ForwardTacotron)
+* Voice clone: [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+* [Spleeter: sound track seperation](https://github.com/deezer/spleeter)
+  sound seperation is under domain of music information retrival.
+  
+### Music-Video Synthesis
 * [Deep Music Visualizer using BigGan](https://towardsdatascience.com/the-deep-music-visualizer-using-sound-to-explore-the-latent-space-of-biggan-198cd37dac9a)
   [code](https://github.com/msieg/deep-music-visualizer)
 
@@ -60,4 +72,13 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Resources on related course:
 * [UIUC CS598RK: HCI for ML](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
 
+## Resources for dev tool:
+* Lumen: Video syth software
+* [Dialogue tree based node editor for unity](https://github.com/Seneral/Node_Editor_Framework)
+  and [example](https://github.com/Seneral/Node_Editor_Framework/tree/Examples/Dialogue-System)
+  [demo](https://nodeeditor.seneral.dev/Examples.html)
 
+
+## More resources on pretrained model:
+ * [Pytorch hub]https://pytorch.org/hub/research-models
+ * [Tensorflow hub]
