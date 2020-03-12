@@ -16,23 +16,26 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 
 - [Awesome Generative Mdels](#awesome-generative-models)
 
-    - [Audio](#audio)
-    - [NLP/text generation](#NLP)
+    - [Image Synthesis](#imageSynthesis)
+		- [Image Style Transfer](#ImageStyleTransfer)
+    - [Text Generation/NLP](#NLP)
+		- [Audio and music generation/processing](#AudioAndMusicGenerationProcessing)
+		- [Music-Video Synthesis](#MusicVideoSynthesis)
     - [Video-Synth](#videoSynth)
     - [Image-Generation](#imageGeneration)
     - [Forum](#forum)
-    
+
 ## Image Synthesis
 * [SPADE by NVlabs: Synthesizing photorealistic images given an input semantic layout](https://nvlabs.github.io/SPADE/).
   [code](https://github.com/nvlabs/spade/)
 
-## Image Style Transfer:
+## Image Style Transfer
 * [Artbreeder based on BigGAN models](https://artbreeder.com/)
    [opensource version](https://github.com/joel-simon/ganbreeder)
    [BigGAN models](https://tfhub.dev/deepmind/biggan-512/2)
    [About](https://artbreeder.com/about)
 
-## Text Generation
+## Text Generation/NLP
 * [OpenAI 1.5 billion params GPT-2 release](https://openai.com/blog/gpt-2-1-5b-release/)
 * [AIDungeon](https://github.com/AIDungeon/AIDungeon)
 
@@ -45,7 +48,7 @@ related research:
 * Voice clone: [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [Spleeter: sound track seperation](https://github.com/deezer/spleeter)
   sound seperation is under domain of music information retrival.
-  
+
 ### Music-Video Synthesis
 * [Deep Music Visualizer using BigGan](https://towardsdatascience.com/the-deep-music-visualizer-using-sound-to-explore-the-latent-space-of-biggan-198cd37dac9a)
   [code](https://github.com/msieg/deep-music-visualizer)
@@ -55,15 +58,13 @@ related research:
   [code](https://github.com/affinelayer/pix2pix-tensorflow)
    update: pretrained model added
    [more about](https://affinelayer.com/pix2pix/)
-   
+
 * [CRAFT, which generates cartoons based on text descritpionsa](https://arxiv.org/abs/1804.03608)
   A very creative work involved text to video generation from allen nlp
   by [researcher](http://tanmaygupta.info/publications/)
   [Project page](https://prior.allenai.org/projects/craft)
   [Video](https://www.youtube.com/watch?v=688Vv86n0z8&feature=youtu.be)
   
-
-
 ## SEE CODE LINK:
 * [Paper with code](https://paperswithcode.com/)
 
