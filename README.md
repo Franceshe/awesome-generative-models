@@ -34,15 +34,13 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 
 ## Text Generation
 * [OpenAI 1.5 billion params GPT-2 release](https://openai.com/blog/gpt-2-1-5b-release/)
-* 
-
+* [AIDungeon](https://github.com/AIDungeon/AIDungeon)
 
 ## Audio and music generation/processing
 ### Project:
 * [Talking like your favorite character: Text-To-Speech audio generation ](https://fifteen.ai/app)
 related research:
 * [Tacotron2](https://github.com/NVIDIA/tacotron2)
-related project:
 * [ForwardTacotron: Tacotron2 without attention](https://github.com/as-ideas/ForwardTacotron)
 * Voice clone: [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [Spleeter: sound track seperation](https://github.com/deezer/spleeter)
@@ -71,6 +69,14 @@ related project:
 
 ## Resources on related course:
 * [UIUC CS598RK: HCI for ML](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
+* [coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/)
+* [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+* fast.ai
+* GPU free resource:[Setting Up a Google Cloud Instance GPU for fast.ai for Free](https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6)
+
+## Full Stack Deep Learning tools in data processing pipeline:
+* [cortex: Deploy machine learning models in production possibly without docker and kubernetes](https://github.com/cortexlabs/cortex)
+
 
 ## Resources for dev tool:
 * Lumen: Video syth software
@@ -82,3 +88,6 @@ related project:
 ## More resources on pretrained model:
  * [Pytorch hub]https://pytorch.org/hub/research-models
  * [Tensorflow hub]
+
+## MEET mind-linked people in forum:
+*[reddit-MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
