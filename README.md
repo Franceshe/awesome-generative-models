@@ -39,12 +39,17 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * dataset: [Google’s “Quick Draw” open source dataset](https://opensource.google/projects/quickdrawdataset)
   [github](https://github.com/googlecreativelab/quickdraw-dataset)
 
+## Image Captioning
+* [Tensorflow core: Image captioning with visual attention](https://www.tensorflow.org/tutorials/text/image_captioning)
+
+
 ## Text-to-Animation
 * [Generating Animations from Screenplays](https://arxiv.org/pdf/1904.05440.pdf)
 
 ## Text Generation/NLP
 * [OpenAI 1.5 billion params GPT-2 release](https://openai.com/blog/gpt-2-1-5b-release/)
 * [AIDungeon](https://github.com/AIDungeon/AIDungeon)
+* [ctrl-gce: CTRL text-generating model on Google Compute Engine with just a few console commands.](https://github.com/minimaxir/ctrl-gce), why google compute engine: The CTRL model is so large (12 GB on disk, 15.5 GB GPU VRAM when loaded, even more system RAM during runtime) that it will currently not fit into a free Colaboratory or Kaggle Notebook. 
 
 ## Audio and music generation/processing
 ### Project:
@@ -65,6 +70,8 @@ related research:
   [code](https://github.com/affinelayer/pix2pix-tensorflow)
    update: pretrained model added
    [more about](https://affinelayer.com/pix2pix/)
+   [colab](https://www.tensorflow.org/tutorials/generative/pix2pix)
+   * Using this technique we can colorize black and white photos, convert google maps to google earth, etc.
 
 * [CRAFT, which generates cartoons based on text descritpionsa](https://arxiv.org/abs/1804.03608)
   A very creative work involved text to video generation from allen nlp
