@@ -35,13 +35,6 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
    [BigGAN models](https://tfhub.dev/deepmind/biggan-512/2)
    [About](https://artbreeder.com/about)
 
-## Text-to-Image:
-* dataset: [Google’s “Quick Draw” open source dataset](https://opensource.google/projects/quickdrawdataset)
-  [github](https://github.com/googlecreativelab/quickdraw-dataset)
-
-## Text-to-Animation
-* [Generating Animations from Screenplays](https://arxiv.org/pdf/1904.05440.pdf)
-
 ## Text Generation/NLP
 * [OpenAI 1.5 billion params GPT-2 release](https://openai.com/blog/gpt-2-1-5b-release/)
 * [AIDungeon](https://github.com/AIDungeon/AIDungeon)
@@ -79,7 +72,8 @@ related research:
 ## SEE CODE LINK:
 * [Paper with code](https://paperswithcode.com/)
 
-## Resources on related course:
+## Resources on related course/BLOG:
+* [Chris Colah's blog](http://colah.github.io/)
 * [UIUC CS598RK: HCI for ML](https://courses.grainger.illinois.edu/cs598rk/fa2019/)
 * [coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/)
 * [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
@@ -87,13 +81,9 @@ related research:
 * [UIUC: ECE420 Video processing lab](https://courses.grainger.illinois.edu/ece420/fa2019/lab7/lab/)
 * GPU free resource:[Setting Up a Google Cloud Instance GPU for fast.ai for Free](https://medium.com/@jamsawamsa/running-a-google-cloud-gpu-for-fast-ai-for-free-5f89c707bae6)
 
-## Cloud computing set up
-* [AWS](https://sebastianraschka.com/pdf/books/dlb/appendix_cloud-computing.pdf)
-* [Google colab](https://medium.com/@mslavescu/try-live-ssd-object-detection-mask-r-cnn-object-detection-and-instance-segmentation-sfmlearner-df62bdc97d52)
-
 ## Full Stack Deep Learning tools in data processing pipeline:
 * [cortex: Deploy machine learning models in production possibly without docker and kubernetes](https://github.com/cortexlabs/cortex)
-   [medium](https://towardsdatascience.com/@calebkaiser)
+
 
 ## Resources for dev tool:
 * Lumen: Video syth software
