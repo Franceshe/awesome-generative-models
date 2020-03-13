@@ -83,6 +83,11 @@ related research:
 *[deep learning for character animation and control](https://github.com/sebastianstarke/AI4Animation)
 *[DeepMimic: Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
 
+# Distributed Training:
+* [MPI Reduce and Allreduce](https://mpitutorial.com/tutorials/mpi-reduce-and-allreduce/)
+* Also check on [Tensorflow-core](https://www.tensorflow.org/tutorials/distribute/keras)
+* [Distributed Traning strategy](https://www.tensorflow.org/guide/distributed_training)
+
 ## SEE CODE LINK:
 * [Paper with code](https://paperswithcode.com/)
 
