@@ -42,7 +42,6 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 ## Image Captioning
 * [Tensorflow core: Image captioning with visual attention](https://www.tensorflow.org/tutorials/text/image_captioning)
 
-
 ## Text-to-Animation
 * [Generating Animations from Screenplays](https://arxiv.org/pdf/1904.05440.pdf)
 
@@ -50,6 +49,15 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [OpenAI 1.5 billion params GPT-2 release](https://openai.com/blog/gpt-2-1-5b-release/)
 * [AIDungeon](https://github.com/AIDungeon/AIDungeon)
 * [ctrl-gce: CTRL text-generating model on Google Compute Engine with just a few console commands.](https://github.com/minimaxir/ctrl-gce), why google compute engine: The CTRL model is so large (12 GB on disk, 15.5 GB GPU VRAM when loaded, even more system RAM during runtime) that it will currently not fit into a free Colaboratory or Kaggle Notebook. 
+* [Writing with the machine](https://www.robinsloan.com/notes/writing-with-the-machine/)
+  [scifi corpus txt dataset](https://www.kaggle.com/jannesklaas/scifi-stories-text-corpus)
+  Could be useful for gpt2 model fine tune
+* [GPT2-Chinese-wuxiao-novel](https://leemeng.tw/gpt2-language-model-generate-chinese-jing-yong-novels.html)
+* [GPT-2 Chinese](https://github.com/Morizeyao/GPT2-Chinese)
+* [Hugging face Transformer]-Pytorch hub 
+
+### Text Corpus/dataset
+* [Sci-fi-Script](http://www.scifiscripts.com/)
 
 ## Audio and music generation/processing
 ### Project:
@@ -85,10 +93,12 @@ related research:
 
 # Distributed Training:
 * [MPI Reduce and Allreduce](https://mpitutorial.com/tutorials/mpi-reduce-and-allreduce/)
+   Very useful tutorial to illustrate the concept of MPT.
+   CHECK [CODE](https://github.com/wesleykendall/mpitutorial/tree/gh-pages)
 * Also check on [Tensorflow-core](https://www.tensorflow.org/tutorials/distribute/keras)
 * [Distributed Traning strategy](https://www.tensorflow.org/guide/distributed_training)
 
-## SEE CODE LINK:
+## Paper with code
 * [Paper with code](https://paperswithcode.com/)
 
 ## Resources on related course:
