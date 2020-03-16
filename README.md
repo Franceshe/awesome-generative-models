@@ -105,6 +105,12 @@ related research:
 * Also check on [Tensorflow-core](https://www.tensorflow.org/tutorials/distribute/keras)
 * [Distributed Traning strategy](https://www.tensorflow.org/guide/distributed_training)
 
+## Computer Vision application in gaming
+* [E-Sports Talent Scouting Based on Multimodal Twitch Stream Data](https://arxiv.org/pdf/1907.01615.pdf)
+  [data acquisition and modeling code](https://github.com/mug31416/E-sports-on-Twitch/tree/master/data)
+  [Chat Log](https://github.com/bernardopires/twitch-chat-logger)
+  [Twich Stream](https://www.godo.dev/tutorials/python-record-twitch/)
+
 ## Paper with code
 * [Paper with code](https://paperswithcode.com/)
 
