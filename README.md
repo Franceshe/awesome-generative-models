@@ -34,7 +34,7 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
    [opensource version](https://github.com/joel-simon/ganbreeder)
    [BigGAN models](https://tfhub.dev/deepmind/biggan-512/2)
    [About](https://artbreeder.com/about)
-
+* A cool project: [Visual Novel using ML Style transfer](https://medium.com/@pbriod/how-i-used-artificial-intelligence-to-make-my-first-graphic-novel-about-my-trip-to-india-although-ff4af46fd6a3)
 ## Text-to-Image:
 * dataset: [Google’s “Quick Draw” open source dataset](https://opensource.google/projects/quickdrawdataset)
   [github](https://github.com/googlecreativelab/quickdraw-dataset)
