@@ -39,6 +39,9 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * dataset: [Google’s “Quick Draw” open source dataset](https://opensource.google/projects/quickdrawdataset)
   [github](https://github.com/googlecreativelab/quickdraw-dataset)
 
+## Text-to-Video:
+* AllenNLP: [Imagine This! Scripts to Compositions to Videos](https://prior.allenai.org/projects/craft)
+
 ## Image Captioning
 * [Tensorflow core: Image captioning with visual attention](https://www.tensorflow.org/tutorials/text/image_captioning)
 
