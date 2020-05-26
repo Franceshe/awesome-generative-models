@@ -151,7 +151,7 @@ related research:
 
 ## More resources on pretrained model:
  * [Pytorch hub]https://pytorch.org/hub/research-models
- * [Tensorflow hub]
+ * Tensorflow hub
 
 ## MEET mind-linked people in forum:
 * [reddit-MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
