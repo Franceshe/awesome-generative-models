@@ -154,7 +154,7 @@ related research:
  * [Tensorflow hub]
 
 ## MEET mind-linked people in forum:
-*[reddit-MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
+* [reddit-MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
 
 ## Application:
 ### FILM MAKING:
@@ -163,7 +163,7 @@ related research:
 * [LATE-SHIFT](https://lateshift-movie.com/)
 
 ## Design
-* [Algorithm Driven Design]:(https://algorithms.design/)
+* [Algorithm Driven Design](https://algorithms.design/)
 * [Algorithm generated Logo](https://app.brandmark.io/)
 
 ## Reference:
