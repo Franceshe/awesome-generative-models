@@ -15,7 +15,7 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 </div>
 
 - [Awesome Generative Mdels](#awesome-generative-models)
-
+	- [Code generation: ML algorithm + Static Analysis](#CodeGeration)
     - [Image Synthesis](#imageSynthesis)
 		- [Image Style Transfer](#ImageStyleTransfer)
     - [Text Generation/NLP](#NLP)
@@ -24,6 +24,10 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
     - [Video-Synth](#videoSynth)
     - [Image-Generation](#imageGeneration)
     - [Forum](#forum)
+
+## Code generation: ML algorithm + Static Analysis
+* [Tabnine: Autocompletion with deep learning](https://www.tabnine.com/blog/deep/)
+* [Kite: Algorithm assisted coder completion ](https://kite.com/)
 
 ## Image Synthesis
 * [SPADE by NVlabs: Synthesizing photorealistic images given an input semantic layout](https://nvlabs.github.io/SPADE/).
@@ -97,7 +101,11 @@ related research:
   by [researcher](http://tanmaygupta.info/publications/)
   [Project page](https://prior.allenai.org/projects/craft)
   [Video](https://www.youtube.com/watch?v=688Vv86n0z8&feature=youtu.be)
-  
+
+## Audio Systhesis
+* [nvidia's taco2 pytorch implementation](https://github.com/NVIDIA/tacotron2)
+* [real-time-voice-clone]
+
 ## Animation
 *[deep learning for character animation and control](https://github.com/sebastianstarke/AI4Animation)
 *[DeepMimic: Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
@@ -156,3 +164,9 @@ related research:
 
 ## Design
 * [Algorithm Driven Design]:(https://algorithms.design/)
+* [Algorithm generated Logo](https://app.brandmark.io/)
+
+## Reference:
+* For details about how to represent animation architecture from software perspective
+and in math. Check Chapter11-Animation System of Game Engine Architecture,2nd edition
+by Jason Gregory
