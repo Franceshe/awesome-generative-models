@@ -16,7 +16,8 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 
 - [Awesome Generative Mdels](#awesome-generative-models)
 	- [Code generation: ML algorithm + Static Analysis](#CodeGeration)
-    - [Image Synthesis](#imageSynthesis)
+    - [Code to GUI: algorithm to user interface](#CodeToGUI)
+	- [Image Synthesis](#imageSynthesis)
 		- [Image Style Transfer](#ImageStyleTransfer)
     - [Text Generation/NLP](#NLP)
 		- [Audio and music generation/processing](#AudioAndMusicGenerationProcessing)
@@ -25,10 +26,16 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
     - [Image-Generation](#imageGeneration)
     - [Forum](#forum)
 
+## Code to GUI: algorithm to user interface:
+* [Screenshoot to Code](https://github.com/emilwallner/Screenshot-to-code)
+* [pix2code: Generating Code from a Graphical User Interface Screenshot](https://github.com/tonybeltramelli/pix2code)
+* [Bred Victor: Machine learning in Engineering inference from enviroment](http://worrydream.com/#!/MagicInk)
+
 ## Code generation: ML algorithm + Static Analysis
 * [Tabnine: Autocompletion with deep learning](https://www.tabnine.com/blog/deep/)
 * [Kite: Algorithm assisted coder completion ](https://kite.com/)
-
+* Insignt:
+  Standard code completion tools often still use alphabetical sorting, while Kite uses ML algorithms to infer what a developer is likely trying to do
 ## Image Synthesis
 * [SPADE by NVlabs: Synthesizing photorealistic images given an input semantic layout](https://nvlabs.github.io/SPADE/).
   [code](https://github.com/nvlabs/spade/)
@@ -170,3 +177,4 @@ related research:
 * For details about how to represent animation architecture from software perspective
 and in math. Check Chapter11-Animation System of Game Engine Architecture,2nd edition
 by Jason Gregory
+* [Kite's new AI model](https://techcrunch.com/2019/01/28/kite-raises-17m-for-its-ai-driven-code-completion-tool/)
