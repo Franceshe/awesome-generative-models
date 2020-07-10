@@ -60,6 +60,9 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [Generating Animations from Screenplays](https://arxiv.org/pdf/1904.05440.pdf)
 
 ## Text Generation/NLP
+### Question Generation:
+* [Question Generation: generate multiple choice answers from text](https://github.com/KristiyanVachev/Question-Generation)
+### Other
 * [OpenAI 1.5 billion params GPT-2 release](https://openai.com/blog/gpt-2-1-5b-release/)
 * [AIDungeon](https://github.com/AIDungeon/AIDungeon)
 * [ctrl-gce: CTRL text-generating model on Google Compute Engine with just a few console commands.](https://github.com/minimaxir/ctrl-gce), why google compute engine: The CTRL model is so large (12 GB on disk, 15.5 GB GPU VRAM when loaded, even more system RAM during runtime) that it will currently not fit into a free Colaboratory or Kaggle Notebook. 
@@ -75,7 +78,6 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 * [Detroit-Becoming-Human](https://github.com/detroitbecometext/detroitbecometext.github.io)
    Could be source to analyze dialogue tree and decision tree structure.
    
-
 ## Audio and music generation/processing
 ### Project:
 * [Talking like your favorite character: Text-To-Speech audio generation ](https://fifteen.ai/app)
