@@ -113,11 +113,11 @@ related research:
 
 ## Audio Systhesis
 * [nvidia's taco2 pytorch implementation](https://github.com/NVIDIA/tacotron2)
-* [real-time-voice-clone]
+* [real-time-voice-clone](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 
 ## Animation
-*[deep learning for character animation and control](https://github.com/sebastianstarke/AI4Animation)
-*[DeepMimic: Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
+* [deep learning for character animation and control](https://github.com/sebastianstarke/AI4Animation)
+* [DeepMimic: Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
 
 # Distributed Training:
 * [MPI Reduce and Allreduce](https://mpitutorial.com/tutorials/mpi-reduce-and-allreduce/)
