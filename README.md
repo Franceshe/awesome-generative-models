@@ -46,6 +46,9 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
    [BigGAN models](https://tfhub.dev/deepmind/biggan-512/2)
    [About](https://artbreeder.com/about)
 * A cool project: [Visual Novel using ML Style transfer](https://medium.com/@pbriod/how-i-used-artificial-intelligence-to-make-my-first-graphic-novel-about-my-trip-to-india-although-ff4af46fd6a3)
+## NLP: Text-Sentiment-Analysis:
+* [DeepMoji:a sentiment analysis model](https://arxiv.org/pdf/1708.00524.pdf) **This model also used in [15.ai](https://15.ai/about), a text-to-speech tool for generating voices of various characters.**
+
 ## Text-to-Image:
 * dataset: [Google’s “Quick Draw” open source dataset](https://opensource.google/projects/quickdrawdataset)
   [github](https://github.com/googlecreativelab/quickdraw-dataset)
@@ -166,6 +169,9 @@ related research:
 * [reddit-MediaSynthesis](https://www.reddit.com/r/MediaSynthesis/)
 
 ## Application:
+### Generating voices of various characters: Ideally podcast and gaming etc:
+* [15.ai](https://15.ai/about)
+
 ### FILM MAKING:
 * Black Mirror: Bandersnatch
   [Show case: dialogue tree](https://www.reddit.com/r/blackmirror/comments/aajk5r/full_bandersnatch_flowchart_all_branches_story/)
