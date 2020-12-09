@@ -45,6 +45,10 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
    [opensource version](https://github.com/joel-simon/ganbreeder)
    [BigGAN models](https://tfhub.dev/deepmind/biggan-512/2)
    [About](https://artbreeder.com/about)
+* A cool artistic project: 
+... DGSpitzer(Eddie Hu) a indie game maker Use [Artbreeder based on BigGAN models](https://artbreeder.com/), StyleGAN-Artm Realistic-Neural_Talking_Head_Modelsm First-Order_Modelsm DAIN
+and Topaz Lab for some great work on digital video repair, which colorize black and while video.
+
 * A cool project: [Visual Novel using ML Style transfer](https://medium.com/@pbriod/how-i-used-artificial-intelligence-to-make-my-first-graphic-novel-about-my-trip-to-india-although-ff4af46fd6a3)
 ## NLP: Text-Sentiment-Analysis:
 * [DeepMoji:a sentiment analysis model](https://arxiv.org/pdf/1708.00524.pdf) **This model also used in [15.ai](https://15.ai/about), a text-to-speech tool for generating voices of various characters.**
