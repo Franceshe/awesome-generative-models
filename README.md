@@ -23,7 +23,8 @@ inspired by [awesome-python](https://github.com/vinta/awesome-python)
 		- [Audio and music generation/processing](#AudioAndMusicGenerationProcessing)
 		- [Music-Video Synthesis](#MusicVideoSynthesis)
     - [Video-Synth](#videoSynth)
-    - [Image-Generation](#imageGeneration)
+	- [Procedural Generation for gaming](#ProceduralGenerationForGaming)
+	- [Image-Generation](#imageGeneration)
     - [Forum](#forum)
 
 ## Code to GUI: algorithm to user interface:
@@ -121,6 +122,10 @@ related research:
 ## Audio Systhesis
 * [nvidia's taco2 pytorch implementation](https://github.com/NVIDIA/tacotron2)
 * [real-time-voice-clone](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+
+## ProceduralGenerationForGaming
+### Map generation
+* [AI-Powered Procedural Fantasy Map Generator](https://80.lv/articles/ai-powered-procedural-fantasy-map-generator/), reference: [@linonetwo's blog](https://onetwo.ren/wiki/#:%E5%9C%B0%E5%9B%BE%E7%94%9F%E6%88%90%E7%9A%84%E4%BE%8B%E5%AD%90)
 
 ## Animation
 * [deep learning for character animation and control](https://github.com/sebastianstarke/AI4Animation)
